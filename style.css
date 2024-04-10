@@ -1,0 +1,16 @@
+header {
+    margin-bottom: 20px;
+}
+
+.container {
+    padding: 10px;
+}
+
+footer {
+    height: 50px;
+    padding: 10px;
+}
+
+.card {
+    padding: 10px;
+}
